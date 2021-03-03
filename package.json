@@ -1,0 +1,25 @@
+{
+  "name": "Election",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle.js",
+  "engines": {
+   "node": "8.10.0",
+   "npm": "6.13.6"
+},
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "start": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  },
+  "dependencies": {
+    "truffle-hdwallet-provider": "^1.0.17"
+  }
+}
